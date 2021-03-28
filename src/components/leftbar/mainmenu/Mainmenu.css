@@ -1,0 +1,8 @@
+.mainmenu_wrap {
+    display: flex;
+    flex-direction: column;
+}
+.mainmenu_link {
+    margin-bottom: 5px;
+    cursor: pointer;
+}

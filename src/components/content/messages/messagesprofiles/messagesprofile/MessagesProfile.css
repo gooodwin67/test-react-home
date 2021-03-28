@@ -1,0 +1,9 @@
+.messages_profile_wrap {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.messages_profile_wrap img {
+    width: 40px;
+    margin-right: 10px;
+}
